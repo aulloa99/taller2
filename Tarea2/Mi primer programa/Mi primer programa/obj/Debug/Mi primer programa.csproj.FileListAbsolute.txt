@@ -1,0 +1,7 @@
+C:\Users\devja\OneDrive\Desktop\programacion l\Tarea2\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.exe.config
+C:\Users\devja\OneDrive\Desktop\programacion l\Tarea2\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.exe
+C:\Users\devja\OneDrive\Desktop\programacion l\Tarea2\Mi primer programa\Mi primer programa\bin\Debug\Mi primer programa.pdb
+C:\Users\devja\OneDrive\Desktop\programacion l\Tarea2\Mi primer programa\Mi primer programa\obj\Debug\Mi primer programa.csproj.AssemblyReference.cache
+C:\Users\devja\OneDrive\Desktop\programacion l\Tarea2\Mi primer programa\Mi primer programa\obj\Debug\Mi primer programa.csproj.CoreCompileInputs.cache
+C:\Users\devja\OneDrive\Desktop\programacion l\Tarea2\Mi primer programa\Mi primer programa\obj\Debug\Mi primer programa.exe
+C:\Users\devja\OneDrive\Desktop\programacion l\Tarea2\Mi primer programa\Mi primer programa\obj\Debug\Mi primer programa.pdb
